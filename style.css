@@ -1,0 +1,13 @@
+h1{
+    color: brown;
+    size: 50px;
+}
+body{
+    background-color:aquamarine;
+}
+#text {
+    border: 3px solid black;
+}
+.xyz {
+    border: 3px outset black;
+}
